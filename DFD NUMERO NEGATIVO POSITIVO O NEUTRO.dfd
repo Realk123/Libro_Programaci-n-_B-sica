@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+77
+'Introduzca un numero aleatorio para saber si es negativo, positivo o neutro'
+5
+1
+6
+numero
+7
+0
+1
+10
+numero = 0
+7
+0
+1
+10
+numero > 0
+4
+1
+36
+'Tu numero ', numero, ' es negativo'
+13
+4
+1
+36
+'Tu numero ', numero, ' es positivo'
+13
+13
+4
+1
+21
+'su numero es neutro'
+13
+4
+1
+23
+'Ojala le haya servido'
+1
